@@ -1,9 +1,4 @@
-/** @type {import('next').NextConfig} 
-const nextConfig = {};
-
-export default nextConfig;*/
-
-module.exports = {
+const nextConfig = {
   async rewrites() {
     return [
       { source: '/feed', destination: '/api/feed' },
@@ -12,3 +7,5 @@ module.exports = {
     ];
   },
 };
+
+export default nextConfig;
