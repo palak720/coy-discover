@@ -106,7 +106,7 @@ coy-discover/
 │   └── Matches.js              Matches list
 ├── lib/db.js                   Seed data and JSON persistence
 ├── data/db.json                Generated on first run (git-ignored)
-├── next.config.js              Rewrites for /feed, /swipe, /matches
+├── next.config.mjs              Rewrites for /feed, /swipe, /matches
 └── package.json
 ```
 
