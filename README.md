@@ -4,18 +4,21 @@ A swipe-based **Discover** tab built as a standalone app for the Coy SDE Intern 
 
 ---
 
-## Part A: Two Core Feature Suggestions
+Experience summary
 
-### 1. Match notification with a time-limited conversation starter
-**What:** When two people match, both receive a notification and a short prompt such as "You matched with Riya. Say hi within 48 hours." A suggested opener (based on shared interests) can be tapped to send.
+I went through the full flow: phone OTP login, adding a crush, email verification, the invite link, and the extra-slots screen. The core idea is clear and simple: add a crush privately, and nothing is revealed unless it is mutual. Two things stood out. A crush only matters if the other person is also on Coy, and crush slots are limited, so each one is valuable. My two suggestions come from these two points.
 
-**Why it is needed:** Coy's value is the moment of mutual reveal. Right now that moment ends the experience: the match appears, but nothing guides the next step. Many matches in dating-style apps go silent because neither person wants to message first. A soft deadline and a ready-made opener turns a reveal into an actual conversation, which raises retention and shows users the product leads somewhere.
+Feature 1: Anonymous reminder for crushes who haven’t joined
 
-### 2. Privacy controls for each crush (pause, withdraw, and hide from contacts)
-**What:** Let users pause or withdraw a crush at any time, and let them hide themselves from specific people, for example anyone in their phone contacts or college.
+What: If a user adds a crush who has not joined Coy yet, the app can send that person an anonymous message after a few days, such as “Someone has added you on Coy. Join to find out if it’s mutual.” The message never says who it is from. The user can turn this on or off and choose how often it is sent.
 
-**Why it is needed:** The whole product depends on trust that nothing leaks. Users add a crush only if they are sure it stays private and reversible. Giving them control (undo a crush, avoid certain people) lowers the fear of adding someone, which should increase the number of crushes added per user and the number of matches.
+Why it is needed: A match is only possible when both people are on the app. After adding a crush and sharing the invite link, the user can only wait. If the crush never opens the link, the user’s effort leads nowhere and they are likely to stop using the app. An anonymous reminder helps convert crushes into active users without breaking the core promise of privacy, and it grows the user base, which makes matches more likely.
 
+Feature 2: Pause, swap or remove a crush to free a slot
+
+What: Let users pause or remove a crush at any time and reuse that slot for someone else, with a short cooldown so slots are not abused. Removed crushes should be deleted completely and never notified.
+
+Why it is needed: Slots are limited, and feelings change. A user whose crush has moved on, or who never joined, is stuck with a wasted slot unless they pay for more. Letting them free and reuse a slot makes the limit feel fair instead of punishing. It also builds trust, because users know they stay in control of who they have added, which makes them more willing to add crushes in the first place.
 ---
 
 ## Part B: Discover Tab
