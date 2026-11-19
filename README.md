@@ -4,7 +4,7 @@ A swipe-based **Discover** tab built as a standalone app for the Coy SDE Intern 
 
 ---
 
-Experience summary
+Experience Summary:
 
 I went through the full flow: phone OTP login, adding a crush, email verification, the invite link, and the extra-slots screen. The core idea is clear and simple: add a crush privately, and nothing is revealed unless it is mutual. Two things stood out. A crush only matters if the other person is also on Coy, and crush slots are limited, so each one is valuable. My two suggestions come from these two points.
 
